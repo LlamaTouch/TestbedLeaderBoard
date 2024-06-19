@@ -40,7 +40,7 @@ function App() {
             ?
           </PageHeaderHeading>
           <PageHeaderHeading className="sm:hidden">
-            📈 TinyLLM LeaderBoard
+            📈 TestbedLeaderBoard
           </PageHeaderHeading>
           <PageHeaderDescription>
             Let's Run them on Device and see how they perform!
